@@ -24,7 +24,17 @@
         "이 단어를 잘 이해하고 활용하면 토익 독해 및 청해 섹션에서 유리할 수 있습니다. 특히 법률, 비즈니스 윤리,",
         "책임 관련 주제의 지문에서 자주 등장할 수 있으므로 주의 깊게 학습하시기 바랍니다."
       ],
-      "examples": ["<br>11----1111absolve someone of guilt", "<br>54534543absolve someone of guilt"]
+      "examples": ["<br>11----1111absolve someone of guilt", "<br>54534543absolve someone of guilt"],
+      "questions": [
+        {
+          "question": "What is the synonym of 'absolve'?",
+          "answer": "Exonerate",
+          "explanation": "'Exonerate' means to officially state that someone is not responsible.",
+          "difficulty": "easy",
+          "category": "vocabulary",
+          "options": ["Condemn", "Exonerate", "Accuse"]
+        }
+      ]     
     },
     {
       "word": "2222222",
