@@ -23,10 +23,12 @@
       ],   
       "questions": [
         {
-		  "question": 	"<p>Question 1:</p>\n",
+		  "question": [ 
+						"<p>Question 1:</p>\n",
 						"<p>Part 5 스타일 문제</p>\n",
 						"<p>Choose the word that best completes the sentence:</p>\n",
-						"<p>The board of directors voted to _______ the CEO of any wrongdoing in the accounting scandal.</p>\n",
+						"<p>The board of directors voted to _______ the CEO of any wrongdoing in the accounting scandal.</p>\n"
+					],
           "answer": "Exonerate",
           "explanation": "'Exonerate' means to officially state that someone is not responsible.",
           "difficulty": "easy",
